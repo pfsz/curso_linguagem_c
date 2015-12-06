@@ -4,6 +4,7 @@
 int main()
 {
 	/*
+	 * Ponteiros armazenam endereços de memória.
 	 * Ponteiros não inicializados apontam para um
 	 * lugar indefinido.
 	 */
